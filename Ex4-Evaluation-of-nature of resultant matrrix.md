@@ -16,11 +16,7 @@ To write a java function to evaluate weather the given Matrix A has all odd numb
 
 ## Program:
 ```java
-/*
-Program to ind the nature of resultant matrrix.
-Developed by: AADHITHYAA L
-RegisterNumber: 212224220003
-*/
+
 import java.util.Scanner;
 
 public class MatrixAddition {
